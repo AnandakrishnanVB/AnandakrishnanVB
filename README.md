@@ -24,7 +24,3 @@ anandakrishnan@github:~$ _
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anandhu73000)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandakrishnanvb3000@gmail.com)
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnandakrishnanVB&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandakrishnanVB&theme=github_dark&hide_border=true&layout=compact" />
-</p>
