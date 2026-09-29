@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="360"
+     viewBox="0 0 900 360"
+     font-family="Consolas, 'Courier New', monospace">
+
+  <style>
+    .key {
+      fill: #ffa657;
+      font-size: 16px;
+    }
+
+    .value {
+      fill: #a5d6ff;
+      font-size: 16px;
+    }
+
+    .normal {
+      fill: #c9d1d9;
+      font-size: 16px;
+    }
+
+    .muted {
+      fill: #616e7f;
+      font-size: 16px;
+    }
+
+    .green {
+      fill: #3fb950;
+      font-size: 16px;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect
+    x="0"
+    y="0"
+    width="900"
+    height="360"
+    rx="15"
+    fill="#161b22"
+  />
+
+  <!-- Header -->
+  <text x="35" y="40" class="normal">
+    kichu@github
+  </text>
+
+  <text x="170" y="40" class="muted">
+    ─────────────────────────────────────────────────────────
+  </text>
+
+  <!-- About -->
+  <text x="35" y="78" class="muted">. </text>
+  <text x="52" y="78" class="key">Education</text>
+  <text x="180" y="78" class="muted">................</text>
+  <text x="330" y="78" class="value">B.Tech CSE</text>
+
+  <text x="35" y="105" class="muted">. </text>
+  <text x="52" y="105" class="key">Focus</text>
+  <text x="180" y="105" class="muted">....................</text>
+  <text x="330" y="105" class="value">Software Development</text>
+
+  <text x="35" y="132" class="muted">. </text>
+  <text x="52" y="132" class="key">Learning</text>
+  <text x="180" y="132" class="muted">.................</text>
+  <text x="330" y="132" class="value">DSA, Machine Learning, React</text>
+
+  <!-- Languages -->
+  <text x="35" y="170" class="normal">
+    - Languages
+  </text>
+
+  <text x="180" y="170" class="muted">
+    ───────────────────────────────────────────────
+  </text>
+
+  <text x="35" y="198" class="muted">. </text>
+  <text x="52" y="198" class="key">Programming</text>
+  <text x="180" y="198" class="muted">............</text>
+  <text x="330" y="198" class="value">Java, Python, JavaScript, C</text>
+
+  <text x="35" y="225" class="muted">. </text>
+  <text x="52" y="225" class="key">Web</text>
+  <text x="180" y="225" class="muted">....................</text>
+  <text x="330" y="225" class="value">HTML, CSS, React</text>
+
+  <text x="35" y="252" class="muted">. </text>
+  <text x="52" y="252" class="key">Tools</text>
+  <text x="180" y="252" class="muted">...................</text>
+  <text x="330" y="252" class="value">Git, GitHub, VS Code</text>
+
+  <!-- Projects -->
+  <text x="35" y="290" class="normal">
+    - Building
+  </text>
+
+  <text x="180" y="290" class="muted">
+    ───────────────────────────────────────────────
+  </text>
+
+  <text x="35" y="318" class="green">
+    → AI-Powered Local File Search
+  </text>
+
+  <text x="440" y="318" class="green">
+    → GitHub Repository Recommender
+  </text>
+
+</svg>
