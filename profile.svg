@@ -1,28 +1,192 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="484" viewBox="0 0 985 484" font-family="Consolas,'Courier New',monospace" font-size="16" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjZjNhNjA5Yi0yMWZkLTQ5ZmItYjZlYy01MDA1NDE2YzNjZjQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaG9+FTH1cCGL8DZgSH8+SScAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0NTdhNjgyYi05NmNkLTQwMzAtOWE1Yi1hN2RhZGE3MTZlN2RscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNosLqittU9GhE/SMDJTy8PtwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg890Ce0c/IXNyEZoAKrK/AtgW85ihu3h+eVK3fvIbDTakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaF8yHQLswG0KHiKGo+O8SN0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD6GSFpNeDmklilkCJcfTIFbDdcRRIv0jVeVV1dx1veFWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjUZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNmM2E2MDliLTIxZmQtNDlmYi1iNmVjLTUwMDU0MTZjM2NmNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjEyZGMxOGVlLWJhNDUtNDIyOC1hOTA3LTY1ZDA2M2NhOTk4Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDz3QJ7Rz8hc3IRmgAqsr8C2BbzmKG7eH55Urd+8hsNNqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKapdFNGZEM02CqYZ9s7uZ69+ZchEkOJ5NVeoqHACkmCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggaQvb2PsNOHWccjbWO9KkPBUHOzFo7MyTVh30wm1a0Rh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJAYNRtljU7uP6zgli5m8X/Mfvn9EwogYf/pgkUpq21DvmioZAQLRoQ5povCfPB0/W9seKCsJOEKfaHOQAaDCIQ=</c2pa:manifest></metadata>
-<style>.k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.s{fill:#3fb950;font-weight:bold}text,tspan{white-space:pre}</style>
-<rect width="985" height="484" fill="#161b22" rx="15"/>
-<text x="30" y="40" fill="#c9d1d9"><tspan fill="#3fb950" font-weight="bold">kichu@github</tspan> <tspan class="c">──────────────────────────────────────────────────────────────────</tspan></text>
-<text x="30" y="90" fill="#c9d1d9"><tspan class="s">[about]</tspan></text>
-<text x="30" y="114" fill="#c9d1d9"><tspan class="k">name     </tspan><tspan class="c"> → </tspan><tspan class="v">Anandakrishnan VB</tspan></text>
-<text x="30" y="138" fill="#c9d1d9"><tspan class="k">education</tspan><tspan class="c"> → </tspan><tspan class="v">B.Tech CSE</tspan></text>
-<text x="30" y="162" fill="#c9d1d9"><tspan class="k">focus    </tspan><tspan class="c"> → </tspan><tspan class="v">Software Development</tspan></text>
-<text x="30" y="210" fill="#c9d1d9"><tspan class="s">[stack]</tspan></text>
-<text x="30" y="234" fill="#c9d1d9"><tspan class="k">languages</tspan><tspan class="c"> → </tspan><tspan class="v">Java, Python, JavaScript, C</tspan></text>
-<text x="30" y="258" fill="#c9d1d9"><tspan class="k">web      </tspan><tspan class="c"> → </tspan><tspan class="v">HTML, CSS, React</tspan></text>
-<text x="30" y="282" fill="#c9d1d9"><tspan class="k">backend  </tspan><tspan class="c"> → </tspan><tspan class="v">Django, Node.js</tspan></text>
-<text x="30" y="306" fill="#c9d1d9"><tspan class="k">database </tspan><tspan class="c"> → </tspan><tspan class="v">MySQL, PostgreSQL</tspan></text>
-<text x="30" y="330" fill="#c9d1d9"><tspan class="k">tools    </tspan><tspan class="c"> → </tspan><tspan class="v">Git, GitHub, VS Code</tspan></text>
-<text x="30" y="378" fill="#c9d1d9"><tspan class="s">[learning]</tspan></text>
-<text x="30" y="402" fill="#c9d1d9"><tspan class="c">→ </tspan><tspan class="v">Data Structures &amp; Algorithms</tspan></text>
-<text x="30" y="426" fill="#c9d1d9"><tspan class="c">→ </tspan><tspan class="v">Machine Learning</tspan></text>
-<text x="30" y="450" fill="#c9d1d9"><tspan class="c">→ </tspan><tspan class="v">React / Full-Stack Development</tspan></text>
-<text x="520" y="90" fill="#c9d1d9"><tspan class="s">[projects]</tspan></text>
-<text x="520" y="114" fill="#c9d1d9"><tspan class="c">01 </tspan><tspan class="v">AI-Powered Local File Search</tspan></text>
-<text x="520" y="138" fill="#c9d1d9"><tspan class="c">02 </tspan><tspan class="v">GitHub Repository Recommender</tspan></text>
-<text x="520" y="162" fill="#c9d1d9"><tspan class="c">03 </tspan><tspan class="v">Hospital Management System</tspan></text>
-<text x="520" y="186" fill="#c9d1d9"><tspan class="c">04 </tspan><tspan class="v">Airline Management System</tspan></text>
-<text x="520" y="234" fill="#c9d1d9"><tspan class="s">[contact]</tspan></text>
-<text x="520" y="258" fill="#c9d1d9"><tspan class="k">github</tspan><tspan class="c"> → </tspan><tspan class="v">AnandakrishnanVB</tspan></text>
-<text x="520" y="282" fill="#c9d1d9"><tspan class="k">x     </tspan><tspan class="c"> → </tspan><tspan class="v">@anandhu73000</tspan></text>
-<text x="520" y="306" fill="#c9d1d9"><tspan class="k">email </tspan><tspan class="c"> → </tspan><tspan class="v">anandakrishnanvb3000@gmail.com</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="985"
+     height="600"
+     viewBox="0 0 985 600"
+     font-family="Consolas, 'Courier New', monospace">
+
+  <style>
+    .prompt { fill: #3fb950; }
+    .path { fill: #58a6ff; }
+    .command { fill: #c9d1d9; }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #616e7f; }
+    .output { fill: #c9d1d9; }
+  </style>
+
+  <!-- Terminal -->
+  <rect width="985" height="600" rx="12" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="985" height="36" rx="12" fill="#21262d"/>
+  <rect y="24" width="985" height="12" fill="#21262d"/>
+
+  <!-- Window buttons -->
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="18" r="6" fill="#27c93f"/>
+
+  <text x="492" y="23"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="13">
+    AnandakrishnanVB@github
+  </text>
+
+
+  <!-- whoami -->
+  <text x="30" y="70">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">whoami</tspan>
+  </text>
+
+  <text x="30" y="94" class="output">
+    Anandakrishnan VB
+  </text>
+
+
+  <!-- about -->
+  <text x="30" y="130">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">cat about.txt</tspan>
+  </text>
+
+  <text x="30" y="154" class="output">
+    B.Tech CSE student who enjoys learning, building and solving problems.
+  </text>
+
+  <text x="30" y="178" class="output">
+    Currently exploring software development and machine learning.
+  </text>
+
+
+  <!-- skills -->
+  <text x="30" y="218">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">skills</tspan>
+  </text>
+
+  <text x="30" y="242">
+    <tspan class="key">languages</tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">Java, Python, JavaScript, C</tspan>
+  </text>
+
+  <text x="30" y="266">
+    <tspan class="key">frontend </tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">HTML, CSS, React</tspan>
+  </text>
+
+  <text x="30" y="290">
+    <tspan class="key">backend  </tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">Django, Node.js</tspan>
+  </text>
+
+  <text x="30" y="314">
+    <tspan class="key">database </tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">MySQL, PostgreSQL</tspan>
+  </text>
+
+  <text x="30" y="338">
+    <tspan class="key">tools    </tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">Git, GitHub, VS Code</tspan>
+  </text>
+
+
+  <!-- projects -->
+  <text x="30" y="378">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">projects</tspan>
+  </text>
+
+  <text x="30" y="402">
+    <tspan class="muted">01  </tspan>
+    <tspan class="value">AI-Powered Local File Search</tspan>
+  </text>
+
+  <text x="30" y="426">
+    <tspan class="muted">02  </tspan>
+    <tspan class="value">GitHub Repository Recommender</tspan>
+  </text>
+
+  <text x="30" y="450">
+    <tspan class="muted">03  </tspan>
+    <tspan class="value">Hospital Management System</tspan>
+  </text>
+
+  <text x="30" y="474">
+    <tspan class="muted">04  </tspan>
+    <tspan class="value">Airline Management System</tspan>
+  </text>
+
+
+  <!-- learning -->
+  <text x="520" y="378">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">learning</tspan>
+  </text>
+
+  <text x="520" y="402" class="value">
+    → Data Structures &amp; Algorithms
+  </text>
+
+  <text x="520" y="426" class="value">
+    → Machine Learning
+  </text>
+
+  <text x="520" y="450" class="value">
+    → React / Full-Stack Development
+  </text>
+
+
+  <!-- contact -->
+  <text x="520" y="490">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">contact</tspan>
+  </text>
+
+  <text x="520" y="514">
+    <tspan class="key">github</tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">AnandakrishnanVB</tspan>
+  </text>
+
+  <text x="520" y="538">
+    <tspan class="key">email </tspan>
+    <tspan class="muted"> → </tspan>
+    <tspan class="value">anandakrishnanvb3000@gmail.com</tspan>
+  </text>
+
+
+  <!-- Final prompt -->
+  <text x="30" y="570">
+    <tspan class="prompt">AnandakrishnanVB</tspan>
+    <tspan class="muted">:</tspan>
+    <tspan class="path">~</tspan>
+    <tspan class="muted">$ </tspan>
+    <tspan class="command">█</tspan>
+  </text>
+
 </svg>
