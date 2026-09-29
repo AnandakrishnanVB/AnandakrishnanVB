@@ -1,37 +1,30 @@
-<p align="center">
-  <img src="./profile.svg" width="900">
-</p>
+```console
+anandakrishnan@github:~$ whoami
+Anandakrishnan VB (@AnandakrishnanVB)
 
----
+anandakrishnan@github:~$ cat about.txt
+Role       : B.Tech CSE Student
+Interests  : Learning new tech, building projects, solving coding problems
+Exploring  : Java, Python, JavaScript, React, Machine Learning
+Practicing : DSA on LeetCode and HackerRank
 
-## About Me
+anandakrishnan@github:~$ ls projects/
+ai-powered-local-file-search/
+github-repository-recommender/
+hospital-management-system/
+airline-management-system/
 
-Hi! I'm **Anandakrishnan VB**, a B.Tech CSE student who enjoys learning new technologies, building projects, and solving coding problems.
+anandakrishnan@github:~$ cat socials.txt
+X      : x.com/anandhu73000
+Email  : anandakrishnanvb3000@gmail.com
 
-Currently exploring **Java, Python, JavaScript, React, and Machine Learning**, while practicing DSA on **LeetCode** and **HackerRank**.
-
----
-
-## Projects
-
-- **AI-Powered Local File Search**
-- **GitHub Repository Recommender**
-- **Hospital Management System**
-- **Airline Management System**
-
----
-
-## Socials
+anandakrishnan@github:~$ _
+```
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anandhu73000)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandakrishnanvb3000@gmail.com)
 
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AnandakrishnanVB&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AnandakrishnanVB&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandakrishnanVB&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnandakrishnanVB&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandakrishnanVB&theme=github_dark&hide_border=true&layout=compact" />
+</p>
